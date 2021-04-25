@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<SaveGameData z="1">
+<portraitName>graphics/portraits/portrait_pirate01.png</portraitName>
+<characterName>Kennedy Juma</characterName>
+<saveFileVersion>0.5</saveFileVersion>
+<characterLevel>7</characterLevel>
+<compressed>false</compressed>
+<isIronMode>false</isIronMode>
+<difficulty>easy</difficulty>
+<gameDate z="2">
+<secondsPerDay>10.0</secondsPerDay>
+<timestamp>-55497526301000</timestamp>
+</gameDate>
+<saveDate z="3">2021-04-24 21:58:55.449 UTC</saveDate>
+<allModsEverEnabled z="4"></allModsEverEnabled>
+<enabledMods z="5"></enabledMods>
+</SaveGameData>

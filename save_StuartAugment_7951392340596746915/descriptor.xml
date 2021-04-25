@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<SaveGameData z="1">
+<portraitName>graphics/portraits/portrait_hegemony12.png</portraitName>
+<characterName>Stuart Augment</characterName>
+<saveFileVersion>0.5</saveFileVersion>
+<characterLevel>7</characterLevel>
+<compressed>false</compressed>
+<isIronMode>false</isIronMode>
+<difficulty>easy</difficulty>
+<gameDate z="2">
+<secondsPerDay>10.0</secondsPerDay>
+<timestamp>-55483839374000</timestamp>
+</gameDate>
+<saveDate z="3">2021-04-22 06:36:34.623 UTC</saveDate>
+<allModsEverEnabled z="4"></allModsEverEnabled>
+<enabledMods z="5"></enabledMods>
+</SaveGameData>

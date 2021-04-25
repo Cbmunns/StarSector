@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<SaveGameData z="1">
+<portraitName>graphics/portraits/portrait18.png</portraitName>
+<characterName>Anubis Four</characterName>
+<saveFileVersion>0.5</saveFileVersion>
+<characterLevel>1</characterLevel>
+<compressed>false</compressed>
+<isIronMode>false</isIronMode>
+<difficulty>easy</difficulty>
+<gameDate z="2">
+<secondsPerDay>10.0</secondsPerDay>
+<timestamp>-55661054058000</timestamp>
+</gameDate>
+<saveDate z="3">2021-04-12 19:11:39.133 UTC</saveDate>
+<allModsEverEnabled z="4"></allModsEverEnabled>
+<enabledMods z="5"></enabledMods>
+</SaveGameData>
